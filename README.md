@@ -2,6 +2,8 @@
 
 A web application for issuing and verifying academic certificates using blockchain (Ethereum) and IPFS for decentralized storage and enhanced security. Built with Python (Streamlit, Web3.py), Solidity (Smart Contracts), and Firebase Authentication.
 
+
+
 ## Table of Contents
 
 *   [Description](#description)
@@ -159,4 +161,3 @@ This system provides a secure and transparent way for academic institutions to i
 *   **Decentralized Storage:** IPFS (via Pinata)
 *   **Authentication:** Firebase Authentication
 *   **PDF Handling:** ReportLab (generation), pdfplumber (parsing)
-```
