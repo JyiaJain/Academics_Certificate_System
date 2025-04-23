@@ -72,13 +72,7 @@ This system provides a secure and transparent way for academic institutions to i
     cd Academics_Certificate_System
     ```
 
-2.  **Install Node.js Dependencies:**
-    ```bash
-    # Navigate to the root directory if not already there
-    npm install
-    ```
-
-3.  **Install Python Dependencies:**
+2.  **Install Python Dependencies:**
     ```bash
     # Navigate to the application directory
     cd application
@@ -86,7 +80,7 @@ This system provides a secure and transparent way for academic institutions to i
     cd ..
     ```
 
-4.  **Configure Environment Variables:**
+3.  **Configure Environment Variables:**
     *   Navigate to the `application/` directory.
     *   Create a `.env` file by copying the example or structure from the provided file.
     *   **Firebase:**
@@ -102,10 +96,10 @@ This system provides a secure and transparent way for academic institutions to i
     *   **Institute Credentials:**
         *   Set the desired default `institute_email` and `institute_password` in `.env`.
 
-5.  **Start Ganache:**
+4.  **Start Ganache:**
     *   Launch Ganache. Ensure it's running on the default host (`127.0.0.1`) and port (`8545`), matching `truffle-config.js`.
 
-6.  **Compile and Deploy Contracts:**
+5.  **Compile and Deploy Contracts:**
     *   Open a terminal in the project's root directory.
     *   Compile the contracts:
         ```bash
