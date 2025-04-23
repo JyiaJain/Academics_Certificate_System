@@ -37,8 +37,6 @@ The application consists of three main components:
 2. **Backend**: Python with Streamlit for web interface and business logic
 3. **Database**: Firebase for storing certificate metadata and user credentials
 
-![System Architecture Diagram](placeholder-for-architecture-diagram.png)
-
 ## Technology Stack
 
 - **Blockchain**: Ethereum (Solidity)
@@ -46,7 +44,6 @@ The application consists of three main components:
 - **Frontend**: Streamlit
 - **Backend**: Python
 - **Database**: Firebase
-- **Wallet Integration**: MetaMask
 - **Deployment**: Ethereum Testnet
 
 ## Installation & Setup
@@ -55,7 +52,6 @@ The application consists of three main components:
 - Python 3.10+
 - Node.js 14+
 - Truffle Suite
-- MetaMask extension or other Ethereum wallet
 - Git
 
 ### Installation Steps
