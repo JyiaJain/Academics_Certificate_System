@@ -110,7 +110,6 @@ This system provides a secure and transparent way for academic institutions to i
     ```
     *   Alternatively, you can use the Ganache GUI application, ensuring it's running on the default host (`127.0.0.1`) and port (`8545`), matching `truffle-config.js`.
     ```
-    This warning is normal, especially on M1/M2 Macs, and the application will still function correctly.
 
 6.  **Compile and Deploy Contracts:**
     *   Open a terminal in the project's root directory.
