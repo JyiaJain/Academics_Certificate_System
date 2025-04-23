@@ -68,7 +68,7 @@ This system provides a secure and transparent way for academic institutions to i
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/JyiaJain/Academics_Certificate_System/](https://github.com/JyiaJain/Academics_Certificate_System/)
+    git clone https://github.com/JyiaJain/Academics_Certificate_System
     cd Academics_Certificate_System
     ```
 
